@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<students>
+  <student id="1">
+    <nombre>F. Javier</nombre>
+    <apellido>Benitez</apellido>
+    <apodo>Javi</apodo>
+    <fecha_nacimiento>1997-06-10</fecha_nacimiento>
+    <nota>9</nota>
+	<PO>3-3-1.5-1-0.5</PO>
+  </student>
+  <student id="2">
+    <nombre>Juan José</nombre>
+    <apellido>Dueñas</apellido>
+    <apodo>Juanjo</apodo>
+    <fecha_nacimiento>1994-04-03</fecha_nacimiento>
+    <nota>6</nota>
+	<PO>2.5-1-1.5-1</PO>
+  </student>
+  <student id="3">
+    <nombre>Antonio</nombre>
+    <apellido>Mellado</apellido>
+    <apodo>Tony</apodo>
+    <fecha_nacimiento>1996-02-08</fecha_nacimiento>
+    <nota>8</nota>
+	<PO>2-2.5-1-1.5-1</PO>
+  </student>
+  <student id="4">
+    <nombre>Brian</nombre>
+    <apellido>Palacios</apellido>
+    <apodo>Bry</apodo>
+    <fecha_nacimiento>1996-02-08</fecha_nacimiento>
+    <nota>8</nota>
+	<PO>3-2-1.5-1-0.5</PO>
+  </student>
+</students>

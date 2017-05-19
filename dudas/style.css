@@ -1,0 +1,48 @@
+.tabla_criterios {
+	border: solid 5px; 
+	border-color: black;
+}
+
+.fondo1 {
+	border: solid 3px;
+	border-color: blue;
+}
+
+.fondo2 {
+	border: solid 3px;
+	border-color: red;
+}
+
+.fondo3 {
+	border: solid 3px;
+	border-color: green;
+}
+
+.tabla_estudiantes {
+	border: solid 5px;
+	border-color: purple;
+	border-spacing: 25px;
+}
+
+.imagen {
+	width: 100px;
+	height:100px;
+}
+
+.nuevo_alumno {
+	border: solid 10px;
+	border-color: purple;
+	border-spacing: 20px;
+}
+
+.imagen2 {
+	width: 200px;
+	height: 200px;
+}
+
+.principal {
+	text-align: center;
+}
+
+
+

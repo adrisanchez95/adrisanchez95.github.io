@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<ces>
+	<ce id='01'>
+		<ra>07</ra>
+		<criterios>La práctica simula un sistema de gestión de información realizando tareas de importación, integración, aseguramiento y extracción de la información</criterios>
+		<PM>3 puntos</PM>
+	</ce>
+	<ce id='02'>
+		<ra>06</ra>
+		<criterios>Se gestiona información en formato XML analizando y utilizando tecnologías de almacenamiento y lenguajes de consulta</criterios>
+		<PM>3 puntos</PM>
+	</ce>
+	<ce id='03'>
+		<ra>02</ra>
+		<criterios>Todos las hojas de estilo tienen que estar validadas en CSS 3</criterios>
+		<PM>1.5 puntos</PM>
+	</ce>
+	<ce id='04'>
+		<ra>02</ra>
+		<criterios>Las páginas HTML generadas en PHP están validadas en XHTML 5.2</criterios>
+		<PM>1.5 puntos</PM>
+	</ce>
+	<ce id='05'>
+		<ra>01</ra>
+		<criterios>Los documentos XML están bien formados</criterios>
+		<PM>1 puntos</PM>
+	</ce>
+</ces>
